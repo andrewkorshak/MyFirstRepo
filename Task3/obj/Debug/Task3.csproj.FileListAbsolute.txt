@@ -1,0 +1,14 @@
+C:\Users\###\source\repos\ClassesAndObjects\Task3\bin\Debug\Task3.exe.config
+C:\Users\###\source\repos\ClassesAndObjects\Task3\bin\Debug\Task3.exe
+C:\Users\###\source\repos\ClassesAndObjects\Task3\bin\Debug\Task3.pdb
+C:\Users\###\source\repos\ClassesAndObjects\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\###\source\repos\ClassesAndObjects\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\###\source\repos\ClassesAndObjects\Task3\obj\Debug\Task3.exe
+C:\Users\###\source\repos\ClassesAndObjects\Task3\obj\Debug\Task3.pdb
+C:\Users\ZX\Desktop\ClassesAndObjects\Task3\bin\Debug\Task3.exe.config
+C:\Users\ZX\Desktop\ClassesAndObjects\Task3\bin\Debug\Task3.exe
+C:\Users\ZX\Desktop\ClassesAndObjects\Task3\bin\Debug\Task3.pdb
+C:\Users\ZX\Desktop\ClassesAndObjects\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\ZX\Desktop\ClassesAndObjects\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\ZX\Desktop\ClassesAndObjects\Task3\obj\Debug\Task3.exe
+C:\Users\ZX\Desktop\ClassesAndObjects\Task3\obj\Debug\Task3.pdb
